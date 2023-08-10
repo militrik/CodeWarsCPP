@@ -1,0 +1,3 @@
+/home/militrik/Documents/CPPStuding/Codewars/Highest Scoring Word/cmake-build-debug/CMakeFiles/Highest_Scoring_Word.dir
+/home/militrik/Documents/CPPStuding/Codewars/Highest Scoring Word/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/militrik/Documents/CPPStuding/Codewars/Highest Scoring Word/cmake-build-debug/CMakeFiles/rebuild_cache.dir

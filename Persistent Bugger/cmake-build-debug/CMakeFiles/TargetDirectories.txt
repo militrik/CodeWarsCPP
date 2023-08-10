@@ -1,0 +1,3 @@
+/home/militrik/Documents/CPPStuding/Codewars/Persistent Bugger/cmake-build-debug/CMakeFiles/Persistent_Bugger.dir
+/home/militrik/Documents/CPPStuding/Codewars/Persistent Bugger/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/militrik/Documents/CPPStuding/Codewars/Persistent Bugger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
