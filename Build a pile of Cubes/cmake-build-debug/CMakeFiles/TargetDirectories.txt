@@ -1,0 +1,3 @@
+/home/militrik/Documents/CPPStuding/Codewars/Build a pile of Cubes/cmake-build-debug/CMakeFiles/Build_a_pile_of_Cubes.dir
+/home/militrik/Documents/CPPStuding/Codewars/Build a pile of Cubes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/militrik/Documents/CPPStuding/Codewars/Build a pile of Cubes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
