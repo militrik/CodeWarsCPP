@@ -1,0 +1,3 @@
+/home/militrik/Documents/CPPStuding/Codewars/Valid Braces/cmake-build-debug/CMakeFiles/Valid_Braces.dir
+/home/militrik/Documents/CPPStuding/Codewars/Valid Braces/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/militrik/Documents/CPPStuding/Codewars/Valid Braces/cmake-build-debug/CMakeFiles/rebuild_cache.dir
