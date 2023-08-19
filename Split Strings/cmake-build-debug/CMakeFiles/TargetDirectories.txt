@@ -1,0 +1,3 @@
+/home/militrik/Documents/CPPStuding/Codewars/Split Strings/cmake-build-debug/CMakeFiles/Split_Strings.dir
+/home/militrik/Documents/CPPStuding/Codewars/Split Strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/militrik/Documents/CPPStuding/Codewars/Split Strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
