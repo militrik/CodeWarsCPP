@@ -1,0 +1,3 @@
+/home/militrik/Documents/CPPStuding/Codewars/String incrementer/cmake-build-debug/CMakeFiles/String_incrementer.dir
+/home/militrik/Documents/CPPStuding/Codewars/String incrementer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/militrik/Documents/CPPStuding/Codewars/String incrementer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

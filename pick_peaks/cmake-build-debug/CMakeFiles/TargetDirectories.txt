@@ -1,0 +1,3 @@
+/home/militrik/Documents/CPPStuding/Codewars/pick_peaks/cmake-build-debug/CMakeFiles/pick_peaks.dir
+/home/militrik/Documents/CPPStuding/Codewars/pick_peaks/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/militrik/Documents/CPPStuding/Codewars/pick_peaks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
