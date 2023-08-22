@@ -12,7 +12,6 @@ int last_digit(const std::string &str1, const std::string &str2) {
         if (pow == 0) return 1;
     }
 
-    if (pow > 20) pow = pow % 20;
     pow = pow % 4;
 
     switch (base) {

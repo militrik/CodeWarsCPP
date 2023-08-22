@@ -1,0 +1,3 @@
+/home/militrik/Documents/CPPStuding/Codewars/range_extraction/cmake-build-debug/CMakeFiles/range_extraction.dir
+/home/militrik/Documents/CPPStuding/Codewars/range_extraction/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/militrik/Documents/CPPStuding/Codewars/range_extraction/cmake-build-debug/CMakeFiles/rebuild_cache.dir
