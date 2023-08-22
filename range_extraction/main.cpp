@@ -10,9 +10,8 @@ std::string range_extraction(std::vector<int> args) {
     std::ostringstream result;
     result << std::to_string(args[0]) + ',';
 
-    int index = 1;
     std::transform(args.begin() + 1, args.end() - 1,
-                   std::ostream_iterator<std::string>(result), [&index, &args](int num) {
+                   std::ostream_iterator<std::string>(result), [index = 1, &args](int num) mutable {
                 int prev = args[index - 1];
                 int next = args[index + 1];
                 index++;
