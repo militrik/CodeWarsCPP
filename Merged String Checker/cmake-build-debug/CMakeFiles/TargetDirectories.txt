@@ -1,0 +1,3 @@
+/home/militrik/Documents/CPPStuding/Codewars/Merged String Checker/cmake-build-debug/CMakeFiles/Merged_String_Checker.dir
+/home/militrik/Documents/CPPStuding/Codewars/Merged String Checker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/militrik/Documents/CPPStuding/Codewars/Merged String Checker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
