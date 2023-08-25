@@ -1,0 +1,13 @@
+# ninja log v5
+0	443	7146681672052517	CMakeFiles/Path_Finder_exit.dir/main.cpp.obj	b88e719eff3a9ba
+444	510	7146681672699532	Path_Finder_exit.exe	7ae7c3a658bf2565
+2	453	7146683003991992	CMakeFiles/Path_Finder_exit.dir/main.cpp.obj	b88e719eff3a9ba
+453	518	7146683004720692	Path_Finder_exit.exe	7ae7c3a658bf2565
+2	437	7146720537636867	CMakeFiles/Path_Finder_exit.dir/main.cpp.obj	b88e719eff3a9ba
+437	502	7146720538294128	Path_Finder_exit.exe	7ae7c3a658bf2565
+2	439	7146724674893225	CMakeFiles/Path_Finder_exit.dir/main.cpp.obj	b88e719eff3a9ba
+439	500	7146724675565180	Path_Finder_exit.exe	7ae7c3a658bf2565
+1	422	7146726642553458	CMakeFiles/Path_Finder_exit.dir/main.cpp.obj	b88e719eff3a9ba
+422	491	7146726643156500	Path_Finder_exit.exe	7ae7c3a658bf2565
+2	445	7146748481563561	CMakeFiles/Path_Finder_exit.dir/main.cpp.obj	b88e719eff3a9ba
+445	509	7146748482305778	Path_Finder_exit.exe	7ae7c3a658bf2565
