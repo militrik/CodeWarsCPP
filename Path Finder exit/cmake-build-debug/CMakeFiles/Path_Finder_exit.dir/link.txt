@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Path_Finder_exit.dir/main.cpp.o -o Path_Finder_exit 
