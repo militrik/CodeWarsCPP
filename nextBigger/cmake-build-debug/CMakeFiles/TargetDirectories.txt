@@ -1,0 +1,3 @@
+/home/militrik/Documents/CPPStuding/Codewars/nextBigger/cmake-build-debug/CMakeFiles/nextBigger.dir
+/home/militrik/Documents/CPPStuding/Codewars/nextBigger/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/militrik/Documents/CPPStuding/Codewars/nextBigger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
