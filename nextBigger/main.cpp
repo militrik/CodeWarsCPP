@@ -35,7 +35,7 @@
     return -1;
 }*/
 
-long nextBigger(long n) {
+/*long nextBigger(long n) {
     // Convert the number to a vector of digits
     std::vector<int> digits;
     while (n > 0) {
@@ -74,6 +74,14 @@ long nextBigger(long n) {
     }
 
     return result;
+}*/
+
+#include <algorithm>
+long nextBigger(long n) {
+
+    std::string str = std::to_string(n);
+    return std::next_permutation(str.begin(), str.end()) ? std::stol(str) : -1;
+
 }
 
 int main() {
