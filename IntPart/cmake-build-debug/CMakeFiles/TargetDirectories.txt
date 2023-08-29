@@ -1,0 +1,3 @@
+/home/militrik/Documents/CPPStuding/Codewars/IntPart/cmake-build-debug/CMakeFiles/IntPart.dir
+/home/militrik/Documents/CPPStuding/Codewars/IntPart/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/militrik/Documents/CPPStuding/Codewars/IntPart/cmake-build-debug/CMakeFiles/rebuild_cache.dir
