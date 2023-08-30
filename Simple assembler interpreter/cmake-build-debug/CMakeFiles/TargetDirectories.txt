@@ -1,0 +1,3 @@
+/home/militrik/Documents/CPPStuding/Codewars/Simple assembler interpreter/cmake-build-debug/CMakeFiles/Simple_assembler_interpreter.dir
+/home/militrik/Documents/CPPStuding/Codewars/Simple assembler interpreter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/militrik/Documents/CPPStuding/Codewars/Simple assembler interpreter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
