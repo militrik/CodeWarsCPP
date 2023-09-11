@@ -1,0 +1,3 @@
+/home/militrik/Documents/CPPStuding/Codewars/Magic Compare/cmake-build-debug/CMakeFiles/Magic_Compare.dir
+/home/militrik/Documents/CPPStuding/Codewars/Magic Compare/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/militrik/Documents/CPPStuding/Codewars/Magic Compare/cmake-build-debug/CMakeFiles/rebuild_cache.dir

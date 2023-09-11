@@ -1,0 +1,3 @@
+/home/militrik/Documents/CPPStuding/Codewars/Binary multiple of 3/cmake-build-debug/CMakeFiles/Binary_multiple_of_3.dir
+/home/militrik/Documents/CPPStuding/Codewars/Binary multiple of 3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/militrik/Documents/CPPStuding/Codewars/Binary multiple of 3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
