@@ -14,7 +14,7 @@ char (**d())[7] {
 
 char buf[256];
 
-char *pointer_monster(char (**(*f)())[7]) {
+char *pointer_monster(__typeof__(d) f) {
     int len;
     len = sprintf(buf, "%s", *f()[0]);
     len += sprintf(buf + len, "%s ", *((**f)() - 1)[0] + 4);
