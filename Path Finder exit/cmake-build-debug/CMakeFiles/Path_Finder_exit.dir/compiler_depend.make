@@ -215,8 +215,6 @@ CMakeFiles/Path_Finder_exit.dir/main.cpp.o: /home/militrik/Documents/CPPStuding/
   /usr/include/c++/11/bits/stl_list.h \
   /usr/include/c++/11/bits/allocated_ptr.h \
   /usr/include/c++/11/bits/list.tcc \
-  /usr/include/c++/11/sstream \
-  /usr/include/c++/11/bits/sstream.tcc \
   /usr/include/c++/11/ctime
 
 
@@ -566,8 +564,6 @@ CMakeFiles/Path_Finder_exit.dir/main.cpp.o: /home/militrik/Documents/CPPStuding/
 
 /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h:
 
-/usr/include/c++/11/sstream:
-
 /usr/include/c++/11/bits/locale_classes.h:
 
 /usr/include/c++/11/string:
@@ -589,8 +585,6 @@ CMakeFiles/Path_Finder_exit.dir/main.cpp.o: /home/militrik/Documents/CPPStuding/
 /usr/include/c++/11/system_error:
 
 /usr/include/c++/11/bits/cxxabi_forced.h:
-
-/usr/include/c++/11/bits/sstream.tcc:
 
 /usr/include/c++/11/string_view:
 

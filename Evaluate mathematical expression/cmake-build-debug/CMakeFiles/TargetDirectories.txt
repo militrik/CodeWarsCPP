@@ -1,0 +1,3 @@
+/home/militrik/Documents/CPPStuding/Codewars/Evaluate mathematical expression/cmake-build-debug/CMakeFiles/Evaluate_mathematical_expression.dir
+/home/militrik/Documents/CPPStuding/Codewars/Evaluate mathematical expression/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/militrik/Documents/CPPStuding/Codewars/Evaluate mathematical expression/cmake-build-debug/CMakeFiles/rebuild_cache.dir
