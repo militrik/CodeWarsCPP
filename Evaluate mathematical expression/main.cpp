@@ -10,13 +10,13 @@
 std::string to_precised_string(double res, int i) {
     std::stringstream ss;
     ss << std::fixed << std::setprecision(i) << res;
-    std::cout << ss.str() << std::endl;
+    //std::cout << ss.str() << std::endl;
     return ss.str();
 }
 
 double calc(std::string expression) {
     expression.erase(std::remove_if(expression.begin(), expression.end(), isspace), expression.end());
-    std::cout << expression << std::endl;
+    //std::cout << expression << std::endl;
     std::smatch match;
     std::regex pattern;
     // parentheses
@@ -39,7 +39,7 @@ double calc(std::string expression) {
                 currentSign = currentSign == '+' ? '-' : '+';
         }
         expression = match[1].str() + currentSign + match[3].str();
-        std::cout << expression << std::endl;
+        //std::cout << expression << std::endl;
         double r = calc(expression);
         //std::cout << r << std::endl;
         return r;
@@ -47,7 +47,7 @@ double calc(std::string expression) {
     // mul div
     pattern = std::regex(R"((.*?)((?:\d+(?:\.\d+)?))([\*|\/])((?:[\+\-]?\d+(?:\.\d+)?))(.*))");
     if (std::regex_search(expression, match, pattern)) {
-        std::cout << stod(match[2].str()) << "\t" << stod(match[4].str()) << std::endl;
+        //std::cout << stod(match[2].str()) << "\t" << stod(match[4].str()) << std::endl;
         double res = match[3].str() == "*" ? stod(match[2].str()) * stod(match[4].str()) : stod(match[2].str()) /
                                                                                            stod(match[4].str());
         std::string str = match[1].str() + to_precised_string(res, 18) + match[5].str();
@@ -66,7 +66,7 @@ double calc(std::string expression) {
         return r;
     }
     // nothing
-    std::cout << "Final number : " << expression << std::endl;
+    //std::cout << "Final number : " << expression << std::endl;
     return std::stod(expression);
 }
 
